@@ -7,7 +7,7 @@
 
 ---
 
-## 1. The natal chart (D1) and the divisional charts you asked for
+## 1. The natal chart (D1) and the divisional charts
 
 | Body | Sidereal longitude | D1 (Rasi) | D9 (Navamsa) | D10 (Dasamsa) | D11 (Rudramsa) |
 |---|---|---|---|---|---|
